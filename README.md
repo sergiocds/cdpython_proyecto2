@@ -11,4 +11,6 @@ Este proyecto consiste en el desarrollo de un pipeline de ingeniería de datos u
 
 En el siguiente enlace se encuentra el [reporte del proyecto](https://github.com/sergiocds/cdpython_proyecto2/blob/main/reporte.ipynb "Reporte del proyecto").
 
+En el siguiente enlace se encuentra el [Dashboard de Tableau del proyecto](https://github.com/sergiocds/cdpython_proyecto2/blob/main/Dashboard.twbx "Dashboard del proyecto").
+
 En el siguiente enlace se encuentra la descripción del proyecto: 
